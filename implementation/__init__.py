@@ -1,0 +1,2 @@
+"""SQLite FastMCP lab implementation."""
+
